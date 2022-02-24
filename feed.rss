@@ -2,15 +2,18 @@
 <rss version="2.0">
 
 <channel>
+	<title>Un RSS normal</title>
+	<description>Un RSS como otro cualquiera</description>
+	<link>https://vmluis.github.io/index.html</link>
   <item>
     <title>Zidane podría ser clave para el fichaje de Haaland por el Madrid</title>
+	<description>novedad futbol</description>
     <link>https://vmluis.github.io/zidane.html</link>
-    <description>novedad futbol</description>
   </item>
   <item>
     <title>Ferrari F1-75, un salto de calidad para volver a ganar</title>
+	<description>novedad f1</description>
     <link>https://vmluis.github.io/ferrari.html</link>
-    <description>novedad f1</description>
   </item>
 </channel>
 
