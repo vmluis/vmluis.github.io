@@ -1,19 +1,19 @@
- <?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
 	<title>Un RSS normal</title>
-	<description>Un RSS como otro cualquiera</description>
 	<link>https://vmluis.github.io/index.html</link>
+	<description>Un RSS como otro cualquiera</description>
   <item>
-    <title>Zidane podría ser clave para el fichaje de Haaland por el Madrid</title>
+   	<title>Zidane podría ser clave para el fichaje de Haaland por el Madrid</title>
+	<link>https://vmluis.github.io/zidane.html</link>
 	<description>novedad futbol</description>
-    <link>https://vmluis.github.io/zidane.html</link>
   </item>
   <item>
-    <title>Ferrari F1-75, un salto de calidad para volver a ganar</title>
+    	<title>Ferrari F1-75, un salto de calidad para volver a ganar</title>
+	<link>https://vmluis.github.io/ferrari.html</link>
 	<description>novedad f1</description>
-    <link>https://vmluis.github.io/ferrari.html</link>
   </item>
 </channel>
 
